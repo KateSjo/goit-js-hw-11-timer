@@ -36,7 +36,7 @@ class CountdownTimer {
 
 const timer = new CountdownTimer({
     selector: "#timer-1",
-    targetDate: "2022,1,1",
+    targetDate: "2030,1,1",
   });
  
 
